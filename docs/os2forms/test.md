@@ -1,5 +1,5 @@
 ---
-layout: document
+layout: default
 title: Test
 parent: OS2Forms
 authors:
