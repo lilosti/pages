@@ -1,7 +1,9 @@
 ---
-layout: Test
+layout: document
 title: Test
-permalink: /os2forms/
-nav_order: 1
+parent: OS2forms
+grand_parent: docs
+authors:
+  - Martin Yde Granath
 ---
 #HEJ
