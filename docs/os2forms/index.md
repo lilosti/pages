@@ -1,5 +1,5 @@
 ---
 layout: document
-title: Docs
+title: OS2Forms
 has_children: true
 ---
